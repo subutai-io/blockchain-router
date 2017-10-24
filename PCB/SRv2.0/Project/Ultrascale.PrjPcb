@@ -157,6 +157,23 @@ GenerateClassCluster=0
 DocumentUniqueId=IUITWAPY
 
 [Document8]
+DocumentPath=DisplayPort.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MKCYWJWS
+
+[Document9]
 DocumentPath=PS_DDR4.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TAVQVYVI
 
-[Document9]
+[Document10]
 DocumentPath=DDR4_PWR.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -190,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SBIWONHK
 
-[Document10]
+[Document11]
 DocumentPath=Sheet10.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -207,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PUJCPJXI
 
-[Document11]
+[Document12]
 DocumentPath=eMMC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UHOHQQRK
 
-[Document12]
+[Document13]
 DocumentPath=WIF_BT.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -241,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LKXEBXYX
 
-[Document13]
+[Document14]
 DocumentPath=PL_DDR4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YSFBAWOC
 
-[Document14]
+[Document15]
 DocumentPath=ETH-PHY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SGKUFUPY
 
-[Document15]
+[Document16]
 DocumentPath=Switch.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -292,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HPIRJECY
 
-[Document16]
+[Document17]
 DocumentPath=Switch_Phy.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -309,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BTSHYUWP
 
-[Document17]
+[Document18]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HKOXLJMI
 
-[Document18]
+[Document19]
 DocumentPath=Arduino_PMOD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document20]
 DocumentPath=JTAG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
