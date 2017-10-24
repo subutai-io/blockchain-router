@@ -1,0 +1,15 @@
+## Altium
+#History Folders
+**/History/*
+
+# Previews Folders
+**/__Previews/*
+
+# Project Logs
+**/Project Logs for Subutai_Router/*
+
+# Auto-conversion notices
+*.PcbDoc.htm
+
+# Access lock file for dbLib sources
+**/*.Ldb
