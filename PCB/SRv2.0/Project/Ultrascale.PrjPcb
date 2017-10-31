@@ -377,6 +377,18 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Ultrascale_SchLib.cmp
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Ultrascale_SchLib.csv
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Ultrascale_SchLib.rep
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
