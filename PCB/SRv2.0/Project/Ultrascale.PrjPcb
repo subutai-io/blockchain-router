@@ -225,7 +225,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PUJCPJXI
 
 [Document12]
-DocumentPath=eMMC.SchDoc
+DocumentPath=eMMC_TPM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
