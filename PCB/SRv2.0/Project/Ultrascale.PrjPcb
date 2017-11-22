@@ -55,6 +55,23 @@ GenerateClassCluster=0
 DocumentUniqueId=WXUGLQIY
 
 [Document2]
+DocumentPath=B504_DDR4.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=9
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PUJCPJXI
+
+[Document3]
 DocumentPath=Z_Power.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -71,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EUGFEPAK
 
-[Document3]
+[Document4]
 DocumentPath=JTAG.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RRQFQEAT
 
-[Document4]
+[Document5]
 DocumentPath=SYSMON.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -105,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RXQFAOGU
 
-[Document5]
+[Document6]
 DocumentPath=QSPI_Flash.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DLEUAASR
 
-[Document6]
+[Document7]
 DocumentPath=USB3.0_UART.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IUITWAPY
 
-[Document7]
+[Document8]
 DocumentPath=PMOD_ARD.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GCOYPLKW
 
-[Document8]
+[Document9]
 DocumentPath=PS_DDR4.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TAVQVYVI
 
-[Document9]
+[Document10]
 DocumentPath=PS_DDR4_PWR.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -189,23 +206,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SBIWONHK
-
-[Document10]
-DocumentPath=B504_DDR4.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=9
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PUJCPJXI
 
 [Document11]
 DocumentPath=eMMC_TPM.SchDoc
@@ -427,6 +427,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MERAIXWD
+
+[Document24]
+DocumentPath=B505_Clk_syn.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JLHBWWRW
 
 [Configuration1]
 Name=Default Configuration
