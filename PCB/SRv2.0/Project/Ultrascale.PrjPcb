@@ -55,6 +55,23 @@ GenerateClassCluster=0
 DocumentUniqueId=WXUGLQIY
 
 [Document2]
+DocumentPath=B505_Clk_syn.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JLHBWWRW
+
+[Document3]
 DocumentPath=B504_DDR4.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -71,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PUJCPJXI
 
-[Document3]
+[Document4]
 DocumentPath=Z_Power.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EUGFEPAK
 
-[Document4]
+[Document5]
 DocumentPath=JTAG.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -105,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RRQFQEAT
 
-[Document5]
+[Document6]
 DocumentPath=SYSMON.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RXQFAOGU
 
-[Document6]
+[Document7]
 DocumentPath=QSPI_Flash.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DLEUAASR
 
-[Document7]
+[Document8]
 DocumentPath=USB3.0_UART.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IUITWAPY
 
-[Document8]
+[Document9]
 DocumentPath=PMOD_ARD.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GCOYPLKW
 
-[Document9]
+[Document10]
 DocumentPath=PS_DDR4.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -190,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TAVQVYVI
 
-[Document10]
+[Document11]
 DocumentPath=PS_DDR4_PWR.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -207,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SBIWONHK
 
-[Document11]
+[Document12]
 DocumentPath=eMMC_TPM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UHOHQQRK
 
-[Document12]
+[Document13]
 DocumentPath=Switch_PHY.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -241,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BTSHYUWP
 
-[Document13]
+[Document14]
 DocumentPath=Switch.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -258,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HPIRJECY
 
-[Document14]
+[Document15]
 DocumentPath=WIFI_BT.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -275,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LKXEBXYX
 
-[Document15]
+[Document16]
 DocumentPath=PL_DDR4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YSFBAWOC
 
-[Document16]
+[Document17]
 DocumentPath=Power1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DFTFNPPJ
 
-[Document17]
+[Document18]
 DocumentPath=Power3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GIJQRSRB
 
-[Document18]
+[Document19]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HKOXLJMI
 
-[Document19]
+[Document20]
 DocumentPath=ETH-PHY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SGKUFUPY
 
-[Document20]
+[Document21]
 DocumentPath=DisplayPort.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MKCYWJWS
 
-[Document21]
+[Document22]
 DocumentPath=Power2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BNTVMYKI
 
-[Document22]
+[Document23]
 DocumentPath=Ultrascale_PcbLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -409,9 +426,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EVUTGSOV
 
-[Document23]
+[Document24]
 DocumentPath=Ultrascale_SchLib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -427,23 +444,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MERAIXWD
-
-[Document24]
-DocumentPath=B505_Clk_syn.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JLHBWWRW
 
 [Configuration1]
 Name=Default Configuration
