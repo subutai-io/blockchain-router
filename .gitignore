@@ -7,9 +7,11 @@
 
 # Project Logs
 **/Project Logs for Subutai_Router/*
+**/Project Logs for Ultrascale/*
+**/Project Outputs for Ultrascale/*
 
 # Auto-conversion notices
 *.PcbDoc.htm
-
+**/Project/*.SchDoc~*
 # Access lock file for dbLib sources
 **/*.Ldb
