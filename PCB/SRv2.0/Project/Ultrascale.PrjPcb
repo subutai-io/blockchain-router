@@ -38,13 +38,18 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+<<<<<<< HEAD
 DocumentPath=B24.SchDoc
 AnnotationEnabled=0
+=======
+DocumentPath=Power1.SchDoc
+AnnotationEnabled=1
+>>>>>>> before-merge-bm
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -52,10 +57,14 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WXUGLQIY
+DocumentUniqueId=DFTFNPPJ
 
 [Document2]
+<<<<<<< HEAD
 DocumentPath=B505_Clk_syn.SchDoc
+=======
+DocumentPath=Power2.SchDoc
+>>>>>>> before-merge-bm
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -69,16 +78,28 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< HEAD
 DocumentUniqueId=JLHBWWRW
 
 [Document3]
 DocumentPath=B504_DDR4.SchDoc
 AnnotationEnabled=0
+=======
+DocumentUniqueId=BNTVMYKI
+
+[Document3]
+DocumentPath=Power3.SchDoc
+AnnotationEnabled=1
+>>>>>>> before-merge-bm
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
+<<<<<<< HEAD
 AnnotateOrder=9
+=======
+AnnotateOrder=-1
+>>>>>>> before-merge-bm
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -86,16 +107,28 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< HEAD
 DocumentUniqueId=PUJCPJXI
 
 [Document4]
 DocumentPath=Z_Power.SchDoc
 AnnotationEnabled=0
+=======
+DocumentUniqueId=GIJQRSRB
+
+[Document4]
+DocumentPath=Power4.SchDoc
+AnnotationEnabled=1
+>>>>>>> before-merge-bm
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
+<<<<<<< HEAD
 AnnotateOrder=1
+=======
+AnnotateOrder=-1
+>>>>>>> before-merge-bm
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -103,16 +136,27 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< HEAD
 DocumentUniqueId=EUGFEPAK
 
 [Document5]
 DocumentPath=JTAG.SchDoc
+=======
+DocumentUniqueId=BNBLOUSI
+
+[Document5]
+DocumentPath=DDR4_SODIMM_PWR.SchDoc
+>>>>>>> before-merge-bm
 AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
+<<<<<<< HEAD
 AnnotateOrder=2
+=======
+AnnotateOrder=8
+>>>>>>> before-merge-bm
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -120,16 +164,27 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< HEAD
 DocumentUniqueId=RRQFQEAT
 
 [Document6]
 DocumentPath=SYSMON.SchDoc
+=======
+DocumentUniqueId=SBIWONHK
+
+[Document6]
+DocumentPath=Zynq_Power.SchDoc
+>>>>>>> before-merge-bm
 AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
+<<<<<<< HEAD
 AnnotateOrder=3
+=======
+AnnotateOrder=1
+>>>>>>> before-merge-bm
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -137,10 +192,17 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< HEAD
 DocumentUniqueId=RXQFAOGU
 
 [Document7]
 DocumentPath=QSPI_Flash.SchDoc
+=======
+DocumentUniqueId=EUGFEPAK
+
+[Document7]
+DocumentPath=QSPI_EMMC_MICROSD.SchDoc
+>>>>>>> before-merge-bm
 AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -157,13 +219,21 @@ GenerateClassCluster=0
 DocumentUniqueId=DLEUAASR
 
 [Document8]
+<<<<<<< HEAD
 DocumentPath=USB3.0_UART.SchDoc
+=======
+DocumentPath=JTAG.SchDoc
+>>>>>>> before-merge-bm
 AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
+<<<<<<< HEAD
 AnnotateOrder=5
+=======
+AnnotateOrder=2
+>>>>>>> before-merge-bm
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -171,16 +241,27 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< HEAD
 DocumentUniqueId=IUITWAPY
 
 [Document9]
 DocumentPath=PMOD_ARD.SchDoc
+=======
+DocumentUniqueId=RRQFQEAT
+
+[Document9]
+DocumentPath=SYSMON.SchDoc
+>>>>>>> before-merge-bm
 AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
+<<<<<<< HEAD
 AnnotateOrder=6
+=======
+AnnotateOrder=3
+>>>>>>> before-merge-bm
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -188,10 +269,17 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< HEAD
 DocumentUniqueId=GCOYPLKW
 
 [Document10]
 DocumentPath=PS_DDR4.SchDoc
+=======
+DocumentUniqueId=RXQFAOGU
+
+[Document10]
+DocumentPath=PS_DDR4_SODIMM.SchDoc
+>>>>>>> before-merge-bm
 AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -208,7 +296,28 @@ GenerateClassCluster=0
 DocumentUniqueId=TAVQVYVI
 
 [Document11]
+<<<<<<< HEAD
 DocumentPath=PS_DDR4_PWR.SchDoc
+=======
+DocumentPath=PL_DDR4_SODIMM.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YSFBAWOC
+
+[Document12]
+DocumentPath=PS_DDR4.SchDoc
+>>>>>>> before-merge-bm
 AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -224,7 +333,140 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SBIWONHK
 
+<<<<<<< HEAD
 [Document12]
+DocumentPath=eMMC_TPM.SchDoc
+=======
+[Document13]
+DocumentPath=PL_DDR4.SchDoc
+>>>>>>> before-merge-bm
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XEVKRRWN
+
+<<<<<<< HEAD
+[Document13]
+DocumentPath=Switch_PHY.SchDoc
+=======
+[Document14]
+DocumentPath=PS_GTR.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NPKVVEGN
+
+[Document15]
+DocumentPath=DisplayPort.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MKCYWJWS
+
+[Document16]
+DocumentPath=PL_IO.SchDoc
+>>>>>>> before-merge-bm
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WXUGLQIY
+
+<<<<<<< HEAD
+[Document14]
+DocumentPath=Switch.SchDoc
+=======
+[Document17]
+DocumentPath=PS_MIO.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YHRWEOKD
+
+[Document18]
+DocumentPath=USB3.0_UART.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IUITWAPY
+
+[Document19]
+DocumentPath=PMOD_ARD_RASP.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GCOYPLKW
+
+[Document20]
 DocumentPath=eMMC_TPM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,25 +483,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UHOHQQRK
 
-[Document13]
-DocumentPath=Switch_PHY.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=11
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BTSHYUWP
-
-[Document14]
-DocumentPath=Switch.SchDoc
+[Document21]
+DocumentPath=Eth_Switch.SchDoc
+>>>>>>> before-merge-bm
 AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -275,7 +501,28 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HPIRJECY
 
+<<<<<<< HEAD
 [Document15]
+=======
+[Document22]
+DocumentPath=Eth_Switch_RJ45.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=11
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BTSHYUWP
+
+[Document23]
+>>>>>>> before-merge-bm
 DocumentPath=WIFI_BT.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -292,8 +539,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LKXEBXYX
 
+<<<<<<< HEAD
 [Document16]
 DocumentPath=PL_DDR4.SchDoc
+=======
+[Document24]
+DocumentPath=ETH-PHY.SchDoc
+>>>>>>> before-merge-bm
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -307,10 +559,17 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< HEAD
 DocumentUniqueId=YSFBAWOC
 
 [Document17]
 DocumentPath=Power1.SchDoc
+=======
+DocumentUniqueId=SGKUFUPY
+
+[Document25]
+DocumentPath=PCB1.PcbDoc
+>>>>>>> before-merge-bm
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -324,41 +583,48 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< HEAD
 DocumentUniqueId=DFTFNPPJ
 
 [Document18]
 DocumentPath=Power3.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GIJQRSRB
-
-[Document19]
-DocumentPath=PCB1.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
+=======
 DocumentUniqueId=HKOXLJMI
+
+[Document26]
+DocumentPath=Library\Ultrascale_PcbLib.PcbLib
+>>>>>>> before-merge-bm
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document27]
+DocumentPath=Library\Ultrascale_SchLib.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Document20]
 DocumentPath=ETH-PHY.SchDoc

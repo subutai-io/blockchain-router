@@ -12,6 +12,6 @@
 
 # Auto-conversion notices
 *.PcbDoc.htm
-
+**/Project/*.SchDoc~*
 # Access lock file for dbLib sources
 **/*.Ldb
