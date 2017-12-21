@@ -1,6 +1,6 @@
 [Design]
 Version=1.0
-HierarchyMode=0
+HierarchyMode=3
 ChannelRoomNamingStyle=0
 ReleasesFolder=
 ReleaseVaultGUID=
@@ -40,7 +40,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=Power1.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -57,7 +57,7 @@ DocumentUniqueId=DFTFNPPJ
 
 [Document2]
 DocumentPath=Power2.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -91,7 +91,7 @@ DocumentUniqueId=GIJQRSRB
 
 [Document4]
 DocumentPath=Power4.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -210,7 +210,7 @@ DocumentUniqueId=TAVQVYVI
 
 [Document11]
 DocumentPath=PL_DDR4_SODIMM.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -244,7 +244,7 @@ DocumentUniqueId=PUJCPJXI
 
 [Document13]
 DocumentPath=PL_DDR4.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -261,7 +261,7 @@ DocumentUniqueId=XEVKRRWN
 
 [Document14]
 DocumentPath=PS_GTR.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -278,7 +278,7 @@ DocumentUniqueId=NPKVVEGN
 
 [Document15]
 DocumentPath=DisplayPort.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -312,7 +312,7 @@ DocumentUniqueId=WXUGLQIY
 
 [Document17]
 DocumentPath=PS_MIO.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -363,7 +363,7 @@ DocumentUniqueId=GCOYPLKW
 
 [Document20]
 DocumentPath=eMMC_TPM.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -431,7 +431,7 @@ DocumentUniqueId=LKXEBXYX
 
 [Document24]
 DocumentPath=ETH-PHY.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -1194,7 +1194,7 @@ Type7=1
 Type8=1
 Type9=1
 Type10=1
-Type11=2
+Type11=1
 Type12=2
 Type13=2
 Type14=1
@@ -1240,12 +1240,12 @@ Type53=1
 Type54=1
 Type55=1
 Type56=2
-Type57=1
-Type58=1
-Type59=0
+Type57=2
+Type58=2
+Type59=2
 Type60=1
-Type61=2
-Type62=2
+Type61=1
+Type62=1
 Type63=1
 Type64=0
 Type65=2
