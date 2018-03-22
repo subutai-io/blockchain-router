@@ -1,8 +1,8 @@
-# The PCB folder include Subutai™ Router's design
+# The PCB folder include Subutai™ Blockchain Router's design
 
-The SRv2.0 folder include Subutai™ Router's v2.0 design
+The SRv2.0 folder include Subutai™ Blockchain Router's v2.0 design
 
-For more information about this project, please visit: https://optdyn.com/subutai-router.html
+For more information about this project, please visit: https://subutai.io/router.html
 
 
 Sunshine,
