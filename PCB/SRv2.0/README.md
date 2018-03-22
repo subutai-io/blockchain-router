@@ -1,5 +1,5 @@
-# Subutai™ Router
-The Subutai™ Router open hardware project sources.
+# Subutai™ Blockchain Router
+The Subutai™ Blockchain Router open hardware project sources.
 
 The 3DRender includes the 3D pdf of the board.
 
@@ -17,7 +17,7 @@ The SchematicPdf folder includes the schematic in the form of pdf.
 
 
 
-For more information about this project, please visit: https://optdyn.com/subutai-router.html
+For more information about this project, please visit: https://subutai.io/router.html
 
 
 Sunshine,
